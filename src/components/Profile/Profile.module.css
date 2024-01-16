@@ -1,0 +1,22 @@
+
+
+.profile{
+	display: grid;
+	grid-template-columns: 165px 10fr;
+	grid-template-rows: 80px 200px 100px 100px;
+	grid-auto-rows: 120px;
+	
+	grid-template-areas: 
+	"images images"
+   "ava des"
+	"my_post my_post"
+	;
+	grid-gap:10px;
+}
+
+
+
+
+
+
+

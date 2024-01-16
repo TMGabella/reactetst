@@ -1,0 +1,16 @@
+
+
+.posts{
+	grid-area: posts;
+	
+}
+
+
+.avatar {
+	width: 65px;
+	height: 65px;
+}
+.like{
+	width: 15px;
+	height: 15px;
+}

@@ -1,0 +1,25 @@
+.nav{
+	grid-area: n;
+	background-color: #141414;
+	
+}
+.item{
+	font-size: 20px;
+	margin-bottom: 10px;
+	margin-left: 15px;
+
+}
+.link{
+	text-decoration: none;
+	color: #e1e3e6;
+	cursor: pointer;
+}
+.link:hover{
+	color:#545353;
+}
+
+.active{
+
+	color:#545353;
+	text-decoration:none;
+}
